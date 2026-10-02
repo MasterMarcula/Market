@@ -1,0 +1,19 @@
+{
+  "name": "minimarket",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Marcos Oliveros",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "chalk": "^6.0.1",
+    "express": "^5.2.1"
+  }
+}
