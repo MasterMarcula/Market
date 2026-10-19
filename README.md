@@ -1,3 +1,4 @@
+![Javascript](https://img.shields.io/badge/Javascript-EXPRESS-green?style=flat&logo=NODEJS)
 # Ejercicio de Backend
 
 ## Mini-Market
